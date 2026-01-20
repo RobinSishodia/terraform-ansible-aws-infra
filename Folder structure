@@ -1,0 +1,11 @@
+terraform-ansible-aws-infra/
+│
+├── terraform/
+│   ├── ec2.tf
+│   ├── vpc.tf
+│   └── outputs.tf
+│
+├── ansible/
+│   └── playbook.yaml
+│
+└── README.md
